@@ -1,0 +1,2 @@
+# Habit Tracker
+ A Python habit tracker program allows users to monitor and maintain their daily habits or goals. The program typically lets users input habits they want to track, such as "Exercise," "Read," or "Drink Water," and records whether they complete them each day. It can display progress over time, visualize data with graphs, and send reminders to encourage consistency. The program could use a simple text interface or a GUI, and store data in a file or database.
